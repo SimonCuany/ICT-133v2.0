@@ -2,25 +2,27 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cf921da0-e316-42b8-b05c-7ded4954c68f" name="Default Changelist" comment="" />
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="ComposerSettings">
-    <execution>
-      <executable />
-    </execution>
+    <execution />
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP" />
   <component name="ProjectId" id="1kh28ecygL8Bm5TNyetPG0URCvm" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/Exo_Dates" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Exo_Array" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -33,23 +35,12 @@
       <recent name="C:\Users\Roland\Documents\GitHub\ICT-133v2.0\C to php" />
     </key>
   </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
-  </component>
   <component name="RunManager">
-    <configuration name="Unnamed" type="PhpBuiltInWebServerConfigurationType" factoryName="PHP Built-in Web Server" nameIsGenerated="true" document_root="$PROJECT_DIR$/Exo_Dates" port="8888">
+    <configuration name="Unnamed" type="PhpBuiltInWebServerConfigurationType" factoryName="PHP Built-in Web Server" nameIsGenerated="true" document_root="$PROJECT_DIR$/Exo_Array" port="8888">
       <method v="2" />
     </configuration>
   </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -62,23 +53,51 @@
       <updated>1606138344646</updated>
       <workItem from="1606138345774" duration="902000" />
       <workItem from="1606216269947" duration="3155000" />
+      <workItem from="1606811238554" duration="3647000" />
+      <workItem from="1606817064758" duration="1261000" />
+      <workItem from="1606819351161" duration="1962000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="1" />
+    <option name="version" value="3" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
       <map>
         <entry key="MAIN">
           <value>
-            <State>
-              <option name="COLUMN_ORDER" />
-            </State>
+            <State />
           </value>
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="549" y="148" width="1092" height="739" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1606811469108">
+      <screen x="70" y="0" width="1850" height="1080" />
+    </state>
+    <state x="549" y="148" width="1092" height="739" key="#com.intellij.execution.impl.EditConfigurationsDialog/70.0.1850.1080@70.0.1850.1080" timestamp="1606811469108" />
+    <state x="875" y="248" key="FileChooserDialogImpl" timestamp="1606811464076">
+      <screen x="70" y="0" width="1850" height="1080" />
+    </state>
+    <state x="875" y="248" key="FileChooserDialogImpl/70.0.1850.1080@70.0.1850.1080" timestamp="1606811464076" />
+    <state width="1807" height="178" key="GridCell.Tab.0.bottom" timestamp="1606821317941">
+      <screen x="70" y="0" width="1850" height="1080" />
+    </state>
+    <state width="1807" height="178" key="GridCell.Tab.0.bottom/70.0.1850.1080@70.0.1850.1080" timestamp="1606821317941" />
+    <state width="1807" height="178" key="GridCell.Tab.0.center" timestamp="1606821317941">
+      <screen x="70" y="0" width="1850" height="1080" />
+    </state>
+    <state width="1807" height="178" key="GridCell.Tab.0.center/70.0.1850.1080@70.0.1850.1080" timestamp="1606821317941" />
+    <state width="1807" height="178" key="GridCell.Tab.0.left" timestamp="1606821317941">
+      <screen x="70" y="0" width="1850" height="1080" />
+    </state>
+    <state width="1807" height="178" key="GridCell.Tab.0.left/70.0.1850.1080@70.0.1850.1080" timestamp="1606821317941" />
+    <state width="1807" height="178" key="GridCell.Tab.0.right" timestamp="1606821317941">
+      <screen x="70" y="0" width="1850" height="1080" />
+    </state>
+    <state width="1807" height="178" key="GridCell.Tab.0.right/70.0.1850.1080@70.0.1850.1080" timestamp="1606821317941" />
   </component>
 </project>
