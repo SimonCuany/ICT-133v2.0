@@ -16,11 +16,12 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="PhpDebugGeneral" listening_started="true" />
   <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP" />
   <component name="ProjectId" id="1kh28ecygL8Bm5TNyetPG0URCvm" />
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/Exo_Dates" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Desktop" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -61,7 +62,8 @@
       <option name="presentableId" value="Default" />
       <updated>1606138344646</updated>
       <workItem from="1606138345774" duration="902000" />
-      <workItem from="1606216269947" duration="3155000" />
+      <workItem from="1606216269947" duration="3734000" />
+      <workItem from="1607019779287" duration="38000" />
     </task>
     <servers />
   </component>
